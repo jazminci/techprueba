@@ -1,0 +1,12 @@
+git clone -- descarga el proyecto 
+git status -- muestra estado 
+git branch -- muestra ramas
+git checkout archivo
+git checkout -b rama
+git add .
+git commit -m "mensaje"
+git push
+git diff
+git log
+git restore --staged file
+git reset --soft HEAD~1
